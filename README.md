@@ -1,6 +1,6 @@
 # Aguaphone 雲端備份倉庫
 
-此倉庫用於存放 [Aguaphone](https://github.com/AguaphoneTeam/aguaphone) 的雲端備份資料。
+此倉庫用於存放 [Aguaphone](https://github.com/atuolan/aguaphone) 的雲端備份資料。
 
 ## 使用方式
 
