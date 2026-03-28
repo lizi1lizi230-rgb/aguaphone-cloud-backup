@@ -17,8 +17,8 @@
    - Expiration：建議選 90 天或更長
    - Repository access：選 **Only select repositories** → 選擇你 fork 的 `aguaphone-cloud-backup`
    - Permissions → Repository permissions：
-     - **Contents**：Read and write
-4. 點擊 **Generate token**，複製產生的 `github_pat_xxxx` token
+     - **Contents**：選擇「Read and write」（下拉選單）
+4. 點擊 **Generate token**，複製產生的 token（以 `github_pat_` 開頭）
 
 > ⚠️ Token 請妥善保管，不要分享給任何人。
 
