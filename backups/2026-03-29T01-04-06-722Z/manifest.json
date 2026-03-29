@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "createdAt": "2026-03-29T01:12:32.314Z",
+  "totalSize": 222473681,
+  "chunkSize": 26214400,
+  "chunks": [
+    {
+      "filename": "part_000.zip",
+      "size": 26214400,
+      "sha": "ef3ffb2a174fe4a2555bbf9742bb8d2b28389139"
+    },
+    {
+      "filename": "part_001.zip",
+      "size": 26214400,
+      "sha": "efbc40a93e20ac3b35b54861066390756e68933c"
+    },
+    {
+      "filename": "part_002.zip",
+      "size": 26214400,
+      "sha": "2e69967433cacd3e1521f450ee7c7e343a9c954f"
+    },
+    {
+      "filename": "part_003.zip",
+      "size": 26214400,
+      "sha": "91bec1dd1c3b6a8dcaf8c3e286f1a64e3c5d06e9"
+    },
+    {
+      "filename": "part_004.zip",
+      "size": 26214400,
+      "sha": "15bee2063fb0599cd689aa9769949f683820c03a"
+    },
+    {
+      "filename": "part_005.zip",
+      "size": 26214400,
+      "sha": "8d041334949264338cb093569a37aad36b659f87"
+    },
+    {
+      "filename": "part_006.zip",
+      "size": 26214400,
+      "sha": "0fcca83f4c59b02dac4becfcfd18eb6897552fec"
+    },
+    {
+      "filename": "part_007.zip",
+      "size": 26214400,
+      "sha": "5560c5801b121ce93891bd50b2eb145c2c90835d"
+    },
+    {
+      "filename": "part_008.zip",
+      "size": 12758481,
+      "sha": "6d1d9d98b415cb32b37353721cff5a2fdc39c43e"
+    }
+  ],
+  "checksum": "7583afc007e43bf2cc35103ef2bbafbb408a13dd8d74aca866ecb9af305ed4cf"
+}
